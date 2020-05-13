@@ -1,0 +1,9 @@
+{
+  "levels": [
+    {
+      "words": ["WORD"],
+      "letters": "Enter the Level Generator to create you own levels, to pass this level the only word is Word and the Bonus word is Cookies",
+      "bonus_word": "COOKIES"
+    }
+  ]
+}

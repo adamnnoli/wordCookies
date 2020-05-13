@@ -1,0 +1,9 @@
+type levels = {
+  words: string list;
+  letters: string;
+  bonus_word: string;
+}
+
+type all_levels = {
+  levels: levels list;
+}

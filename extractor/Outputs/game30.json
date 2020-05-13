@@ -1,0 +1,365 @@
+{
+  "levels": [
+    {
+      "words": [
+        "BEE",
+        "BEHAVE",
+        "WAVE",
+        "WEB",
+        "WEAVE",
+        "AWE",
+        "HAVE",
+        "HEW",
+        "EVE"
+      ],
+      "letters": "BEHAVE",
+      "bonus_word": "HEAVE"
+    },
+    {
+      "words": [
+        "IRK",
+        "LICK",
+        "LYRIC",
+        "LIT",
+        "CRY",
+        "CITY",
+        "TRY",
+        "TRICKY",
+        "TRICK",
+        "TICK",
+        "TIC",
+        "ILK",
+        "ICY"
+      ],
+      "letters": "TRICKY",
+      "bonus_word": "KIT"
+    },
+    {
+      "words": [
+        "RIFT",
+        "TURFY",
+        "TURF",
+        "TRY",
+        "RUT",
+        "FIT",
+        "FIR",
+        "FURY",
+        "FUR",
+        "FRUITY",
+        "FRUIT",
+        "JUT",
+        "JURY"
+      ],
+      "letters": "FRUITY",
+      "bonus_word": "FRY"
+    },
+    {
+      "words": [
+        "SPY",
+        "SPRY",
+        "SPICY",
+        "SIR",
+        "SIP",
+        "RIPS",
+        "RIP",
+        "PRY",
+        "ICY",
+        "CRISPY",
+        "CRISP"
+      ],
+      "letters": "CRISPY",
+      "bonus_word": "CRY"
+    },
+    {
+      "words": [
+        "AIL",
+        "RAIL",
+        "LIAR",
+        "LAIR",
+        "CURIAL",
+        "CUR",
+        "CRUCIAL",
+        "CIRCA",
+        "CAR",
+        "ARC",
+        "AIR"
+      ],
+      "letters": "CRUCIAL",
+      "bonus_word": "CURL"
+    },
+    {
+      "words": [
+        "FLU",
+        "FLAT",
+        "FAULT",
+        "FATAL",
+        "FAT",
+        "FACTUAL",
+        "FACT",
+        "CUT",
+        "CULT",
+        "CAT",
+        "CALF",
+        "ACT"
+      ],
+      "letters": "FACTUAL",
+      "bonus_word": "ACTUAL"
+    },
+    {
+      "words": [
+        "EMUS",
+        "EMU",
+        "MOMS",
+        "MOM",
+        "MOUSE",
+        "MEMO",
+        "MUM",
+        "MUSEUM",
+        "USE",
+        "SOME",
+        "SUE",
+        "SUMO",
+        "SUM"
+      ],
+      "letters": "MUSEUM",
+      "bonus_word": "MUSE"
+    },
+    {
+      "words": [
+        "COED",
+        "ODD",
+        "ODE",
+        "DOVE",
+        "DOE",
+        "DEED",
+        "DECODE",
+        "COVE",
+        "CODED",
+        "CODE",
+        "COD",
+        "CEDED",
+        "CEDE"
+      ],
+      "letters": "DECODE",
+      "bonus_word": "EVE"
+    },
+    {
+      "words": [
+        "SHRUBS",
+        "SHRUB",
+        "BRUSH",
+        "SUBS",
+        "RUSH",
+        "HUBS",
+        "BUSH",
+        "BURS",
+        "SUB",
+        "RUB",
+        "HUB",
+        "BUS",
+        "BUR"
+      ],
+      "letters": "SHRUBS",
+      "bonus_word": "RUBS"
+    },
+    {
+      "words": [
+        "VEER",
+        "ROVER",
+        "ROVE",
+        "ROE",
+        "RECOVER",
+        "OVER",
+        "EVER",
+        "EVE",
+        "ERR",
+        "COVER",
+        "COVE",
+        "CORE"
+      ],
+      "letters": "RECOVER",
+      "bonus_word": "ORE"
+    },
+    {
+      "words": [
+        "MOOR",
+        "TOO",
+        "ROT",
+        "ROOT",
+        "ROOM",
+        "ROOF",
+        "MOTOR",
+        "FROM",
+        "FORT",
+        "FORM",
+        "FOR",
+        "FOOT",
+        "COT",
+        "COMFORT"
+      ],
+      "letters": "COMFORT",
+      "bonus_word": "MOOT"
+    },
+    {
+      "words": [
+        "ALE",
+        "PAL",
+        "ZEAL",
+        "PEAL",
+        "LEAP",
+        "LAZE",
+        "LAP",
+        "PLEA",
+        "PEA",
+        "PUZZLE",
+        "PALE"
+      ],
+      "letters": "PUZZLE",
+      "bonus_word": "APE"
+    },
+    {
+      "words": [
+        "MOOR",
+        "LOOM",
+        "GORY",
+        "ROOM",
+        "GYM",
+        "GROOM",
+        "GLOOMY",
+        "GLOOM",
+        "GLORY",
+        "LOGO"
+      ],
+      "letters": "GLOOMY",
+      "bonus_word": "LOG"
+    },
+    {
+      "words": [
+        "ROE",
+        "ORE",
+        "ONE",
+        "ONCE",
+        "NOR",
+        "NONE",
+        "NEON",
+        "EON",
+        "CRONE",
+        "CORE",
+        "CONE",
+        "CONCERN",
+        "CON"
+      ],
+      "letters": "CONCERN",
+      "bonus_word": "CORN"
+    },
+    {
+      "words": [
+        "TOO",
+        "TOE",
+        "OUTCOME",
+        "OUT",
+        "MOOT",
+        "MET",
+        "EMU",
+        "CUTE",
+        "CUT",
+        "CUE",
+        "COT",
+        "COMET",
+        "COME"
+      ],
+      "letters": "OUTCOME",
+      "bonus_word": "MUTE"
+    },
+    {
+      "words": [
+        "ENJOY",
+        "EON",
+        "YELL",
+        "JELLY",
+        "JELL",
+        "JOY",
+        "JOLLY",
+        "ONLY",
+        "ONE",
+        "LONE",
+        "LONELY"
+      ],
+      "letters": "LONELY",
+      "bonus_word": "LYE"
+    },
+    {
+      "words": [
+        "FLU",
+        "LYE",
+        "LUNE",
+        "FUN",
+        "FUEL",
+        "FLY",
+        "FLUENCY",
+        "FLUE",
+        "FEN",
+        "ELF",
+        "CUE",
+        "CLUE",
+        "CLEF"
+      ],
+      "letters": "FLUENCY",
+      "bonus_word": "UNCLE"
+    },
+    {
+      "words": [
+        "NAY",
+        "RUN",
+        "RAY",
+        "RAN",
+        "YARN",
+        "URN",
+        "JURY",
+        "JAR",
+        "JANUARY",
+        "ANY"
+      ],
+      "letters": "JANUARY",
+      "bonus_word": "AURA"
+    },
+    {
+      "words": [
+        "GAG",
+        "NAG",
+        "AGING",
+        "ZAG",
+        "ZIG",
+        "MAIN",
+        "MAN",
+        "GIG",
+        "GIN",
+        "GAIN",
+        "GANG",
+        "GAMING",
+        "GAZING"
+      ],
+      "letters": "GAMING",
+      "bonus_word": "AIM"
+    },
+    {
+      "words": [
+        "GLEE",
+        "GEL",
+        "GENE",
+        "LEGEND",
+        "LEDGE",
+        "LED",
+        "LEND",
+        "DEN",
+        "NEEDLE",
+        "NEED",
+        "EDGE",
+        "END",
+        "EEL"
+      ],
+      "letters": "LEGEND",
+      "bonus_word": "LEG"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "levels": [
+    { "words": ["MY"], "letters": "GYM", "bonus_word": "GYM" },
+    { "words": ["DOG", "DO", "GO"], "letters": "DOG", "bonus_word": "GOD" },
+    { "words": ["UP"], "letters": "CUP", "bonus_word": "CUP" },
+    { "words": ["AS", "ASH"], "letters": "ASH", "bonus_word": "HAS" },
+    { "words": ["BAT", "AT"], "letters": "TAB", "bonus_word": "TAB" },
+    {
+      "words": ["OWN", "NOW", "ON", "NO"],
+      "letters": "WON",
+      "bonus_word": "WON"
+    },
+    { "words": ["OF", "GO"], "letters": "FOG", "bonus_word": "FOG" },
+    { "words": ["MAY", "AM", "MY"], "letters": "YAM", "bonus_word": "YAM" },
+    { "words": ["SON", "ON", "SO"], "letters": "SON", "bonus_word": "NO" },
+    { "words": ["OF", "DO"], "letters": "FOOD", "bonus_word": "FOOD" },
+    {
+      "words": ["TIED", "TIE", "TIDE", "DIET", "DIE"],
+      "letters": "TIED",
+      "bonus_word": "EDIT"
+    },
+    { "words": ["ICE", "CUE"], "letters": "JUICE", "bonus_word": "JUICE" },
+    { "words": ["IN", "INN"], "letters": "NINE", "bonus_word": "NINE" },
+    {
+      "words": ["TAG", "OAT", "GOT", "GOAT", "AGO", "GO", "TO"],
+      "letters": "GOAT",
+      "bonus_word": "AT"
+    },
+    {
+      "words": ["BOOM", "MOB", "LOOM"],
+      "letters": "BLOOM",
+      "bonus_word": "BLOOM"
+    },
+    { "words": ["LAY", "DAY", "LADY"], "letters": "LADY", "bonus_word": "LAD" },
+    {
+      "words": ["STEP", "PETS", "PET", "PEST"],
+      "letters": "STEP",
+      "bonus_word": "SET"
+    },
+    {
+      "words": ["PUPIL", "PULP", "PIP", "LIP"],
+      "letters": "PUPIL",
+      "bonus_word": "PUP"
+    },
+    {
+      "words": ["EON", "NO", "ON", "OVEN"],
+      "letters": "OVEN",
+      "bonus_word": "ONE"
+    },
+    {
+      "words": ["TRAP", "TAP", "PAT", "RAP", "PART"],
+      "letters": "TRAP",
+      "bonus_word": "ART"
+    }
+  ]
+}

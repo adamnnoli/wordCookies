@@ -1,0 +1,102 @@
+{
+  "levels": [
+    { "words": ["TO", "TOW"], "letters": "TOW", "bonus_word": "TWO" },
+    {
+      "words": ["DO", "OR", "ROD", "WORD"],
+      "letters": "WORD",
+      "bonus_word": "ROW"
+    },
+    {
+      "words": ["TONE", "TON", "TOE", "TEN", "ONE", "NOTE", "NET"],
+      "letters": "TONE",
+      "bonus_word": "NOT"
+    },
+    { "words": ["YES", "SEE", "EYE"], "letters": "EYES", "bonus_word": "EYES" },
+    { "words": ["WE", "IF", "FEW"], "letters": "WIFE", "bonus_word": "WIFE" },
+    {
+      "words": ["WOLF", "OWL", "LOW", "FOWL"],
+      "letters": "WOLF",
+      "bonus_word": "FLOW"
+    },
+    {
+      "words": ["REAR", "RARE", "ERR", "ERA", "ARE"],
+      "letters": "REAR",
+      "bonus_word": "EAR"
+    },
+    {
+      "words": ["TRY", "TRAY", "TAR", "RAT", "ART"],
+      "letters": "TRAY",
+      "bonus_word": "RAY"
+    },
+    {
+      "words": ["OWL", "BLOW", "BOWL", "BOW"],
+      "letters": "BLOW",
+      "bonus_word": "LOW"
+    },
+    { "words": ["VASE", "AS", "SAVE"], "letters": "VASE", "bonus_word": "SEA" },
+    { "words": ["UP", "SOUP", "SO"], "letters": "SOUP", "bonus_word": "US" },
+    {
+      "words": ["BUYS", "SUB", "BY", "BUY", "BUS", "US"],
+      "letters": "BUYS",
+      "bonus_word": "BUSY"
+    },
+    {
+      "words": ["SO", "SHOT", "HOT", "HOST"],
+      "letters": "SHOT",
+      "bonus_word": "TO"
+    },
+    { "words": ["BIRD", "BID", "RIB"], "letters": "BIRD", "bonus_word": "RID" },
+    {
+      "words": ["YEAR", "RAY", "ERA", "EAR", "ARE"],
+      "letters": "YEAR",
+      "bonus_word": "RYE"
+    },
+    {
+      "words": ["PEA", "CAPE", "CAP", "APE", "ACE"],
+      "letters": "PACE",
+      "bonus_word": "PACE"
+    },
+    {
+      "words": ["OR", "OUR", "OF", "FOUR", "FUR"],
+      "letters": "FOUR",
+      "bonus_word": "FOR"
+    },
+    {
+      "words": ["SLAP", "SAP", "PALS", "PAL", "LAPS", "LAP"],
+      "letters": "SLAP",
+      "bonus_word": "SPA"
+    },
+    {
+      "words": [
+        "WORDS",
+        "SWORD",
+        "SOW",
+        "ROWS",
+        "RODS",
+        "SO",
+        "DO",
+        "ROD",
+        "ROW",
+        "WORD"
+      ],
+      "letters": "WORDS",
+      "bonus_word": "OR"
+    },
+    {
+      "words": [
+        "GO",
+        "GOT",
+        "HOG",
+        "HOGS",
+        "GHOST",
+        "TO",
+        "SO",
+        "SHOT",
+        "HOT",
+        "HOST"
+      ],
+      "letters": "GHOST",
+      "bonus_word": "GOSH"
+    }
+  ]
+}
